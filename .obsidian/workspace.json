@@ -11,10 +11,14 @@
             "id": "f366358c6de4329c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "All.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "All"
             }
           }
         ]
@@ -211,14 +215,14 @@
       "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "f366358c6de4329c",
+  "active": "797692df0ab61f49",
   "lastOpenFiles": [
+    "All.md",
+    "Untitled.md",
     "Open me/Read Me.md",
     "Open me/Untitled.md",
     "Open me",
-    "Untitled.md",
     "Untitled/Open me.md",
-    "All.md",
     "3/1/1/B.md",
     "3/F.3.md",
     "A/F.A.md",
